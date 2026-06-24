@@ -1,0 +1,7 @@
+[Sound Theme]
+Name=macos
+Directories=stereo
+Inherits=freedesktop
+
+[stereo]
+OutputProfile=stereo
