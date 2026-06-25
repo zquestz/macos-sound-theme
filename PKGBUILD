@@ -11,9 +11,9 @@ makedepends=(
   git
   meson
 )
-_commit=701310f0b1e5c4893caf337677dfbedd5ea457a8
+_commit=83d14c9f323bfa1850b7f310a0c8ba718d067be1
 source=(macos-sound-theme::git+https://github.com/zquestz/macos-sound-theme.git#commit=${_commit})
-sha256sums=('4449df89278f7892d5c8e289fc47a13e2638bd56ffb8d636ede2cf327595a8aa')
+sha256sums=('99de9e0a52503265727848b0ae124d0ca9917c1cda78830ec9559170149a78b2')
 
 build() {
   arch-meson macos-sound-theme build
