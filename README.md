@@ -1,6 +1,8 @@
 # MacOS Sound Theme
 
-MacOS trash sounds for Linux.
+MacOS sounds for Linux. Sounds were sourced from:
+
+https://bigsur-sounds.itsnoahevans.co.uk/
 
 ## Installation
 
