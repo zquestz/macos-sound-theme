@@ -1,4 +1,4 @@
 build
-macos-sound-theme
-.SRCINFO
-*.zst
+dist/macos-sound-theme
+dist/.SRCINFO
+dist/*.zst
