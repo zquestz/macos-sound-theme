@@ -1,7 +1,7 @@
 # Maintainer: Josh Ellithorpe <quest@mac.com
 
 pkgname=macos-sound-theme-git
-pkgver=r11.d29dfc1
+pkgver=r13.9109553
 pkgrel=1
 pkgdesc='MacOS trash sounds for Linux.'
 arch=(any)
