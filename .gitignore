@@ -2,3 +2,6 @@ build
 dist/macos-sound-theme
 dist/.SRCINFO
 dist/*.zst
+dist/pkg
+dist/src
+
